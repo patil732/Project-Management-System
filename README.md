@@ -4,6 +4,24 @@ A web-based Project Management System built using **HTML, CSS, JavaScript, PHP, 
 
 ---
 
+## 🧩 Problem Statement
+
+Managing multiple projects, assigning tasks, and tracking progress can be challenging for teams without a centralized system. Manual methods like spreadsheets or email threads are inefficient, error-prone, and lack real-time updates.
+
+---
+
+## 💡 Solution
+
+This Project Management System provides a centralized web platform for teams to:
+- Create and organize projects
+- Assign and manage tasks
+- Monitor project progress in real time
+- Collaborate effectively with role-based access
+
+With an intuitive interface and a simple tech stack (HTML, CSS, JavaScript, PHP, MySQL), the system ensures that project workflows are streamlined and productivity is enhanced.
+
+---
+
 ## 🚀 Features
 
 - 📋 Create and manage projects
@@ -27,4 +45,3 @@ A web-based Project Management System built using **HTML, CSS, JavaScript, PHP, 
 | MySQL      | Database to store users, projects, tasks |
 
 ---
-
